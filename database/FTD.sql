@@ -1,0 +1,5 @@
+CREATE TABLE IF NOT EXISTS FTD (
+    id_ftd INTEGER PRIMARY KEY,
+    nazwa TEXT NOT NULL,
+    opis TEXT NOT NULL
+);
